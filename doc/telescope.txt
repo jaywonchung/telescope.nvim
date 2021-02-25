@@ -7,6 +7,11 @@ filter, find and pick things in Lua.
 To find out more:
 https://github.com/nvim-telescope/telescope.nvim
 
+  :h telescope.setup
+  :h telescope.builtin
+  :h telescope.layout
+  :h telescope.actions
+
 telescope.extensions()                                *telescope.extensions()*
 
     Use telescope.extensions to reference any extensions within your
